@@ -1,5 +1,8 @@
 # Yuniqx Twitch Bot
 
+![Yuniqx Bot Logo](Images/max_schock.png)
+
+
 > [!CAUTION]
 > ⚠️ **Early Access Notice** ⚠️
 > Yuniqx Bot is currently in Early Access. Features may be added, changed, or removed as development progresses. We appreciate your support and feedback during this phase!
@@ -28,7 +31,7 @@ Yuniqx is a versatile Twitch bot designed to enhance channel moderation and user
 - `!listspam`: Display the current list of spam filter patterns.
 - `!status`: Display the current status of the bot.
 
-## ⚠️ Early Access Information ⚠️
+## Early Access Information
 
 As Yuniqx Bot is in Early Access:
 
