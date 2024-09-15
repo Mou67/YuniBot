@@ -7,46 +7,48 @@
 > ⚠️ **Early Access Notice** ⚠️
 > Yuniqx Bot is currently in Early Access. Features may be added, changed, or removed as development progresses. We appreciate your support and feedback during this phase!
 
-Yuniqx is a versatile Twitch bot designed to enhance channel moderation and user engagement. Built with Python and the TwitchIO library, this bot offers a range of features to improve the streaming experience.
+Yuniqx ist ein vielseitiger Twitch-Bot, der entwickelt wurde, um die Kanalmoderationund das Nutzerengagement zu verbessern. Basierend auf Python und der TwitchIO-Bibliothek bietet dieser Bot eine Reihe von Funktionen zur Verbesserung des Streaming-Erlebnisses.
 
-## Features
+## Funktionen
 
-- **Slowmode Management**: Moderators can activate or deactivate slowmode in the chat.
-- **URL Scanning**: Automatically scans posted URLs for potential security threats using VirusTotal API.
-- **Custom Commands**: Includes commands like !discord, !party, and more for user engagement.
-- **Message Counting**: Tracks the total number of chat messages.
-- **Auto-responses**: Responds to specific keywords in chat.
-- **Spam Filtering**: Automatically detects and removes common spam messages.
-- **Command List**: Users can view available commands with !cm.
+- **Slowmode-Verwaltung**: Moderatoren können den Slowmode im Chat aktivieren oder deaktivieren.
+- **URL-Überprüfung**: Scannt automatisch gepostete URLs auf potenzielle Sicherheitsbedrohungen mit der VirusTotal API.
+- **Benutzerdefinierte Befehle**: Enthält Befehle wie !discord, !party und mehr für das Nutzerengagement.
+- **Nachrichtenzählung**: Verfolgt die Gesamtzahl der Chat-Nachrichten.
+- **Automatische Antworten**: Reagiert auf bestimmte Schlüsselwörter im Chat.
+- **Spam-Filterung**: Erkennt und entfernt automatisch häufige Spam-Nachrichten.
+- **Befehlsliste**: Benutzer können verfügbare Befehle mit !cm anzeigen.
 
-## Commands
+## Befehle
 
-- `!slowmode <seconds>`: Set slowmode (0-1800 seconds, mod only).
-- `!discord` or `!dc`: Share Discord invite link.
-- `!ms`: Display total message count.
-- `!party`: Trigger a party mode with emotes.
-- `!cm`: List all available commands.
-- `!addspam <pattern>`: Add a spam pattern to the filter (Mod only).
-- `!removespam <pattern>`: Remove a spam pattern from the filter (Mod only).
-- `!listspam`: Display the current list of spam filter patterns.
-- `!status`: Display the current status of the bot.
+- `!slowmode <Sekunden>`: Stellt den Slowmode ein (0-1800 Sekunden, nur für Moderatoren).
+- `!discord` oder `!dc`: Teilt den Discord-Einladungslink.
+- `!ms`: Zeigt die Gesamtzahl der Nachrichten an.
+- `!party`: Löst einen Party-Modus mit Emotes aus.
+- `!cm`: Listet alle verfügbaren Befehle auf.
+- `!addspam <Muster>`: Fügt ein Spam-Muster zum Filter hinzu (nur für Moderatoren).
+- `!removespam <Muster>`: Entfernt ein Spam-Muster aus dem Filter (nur für Moderatoren).
+- `!listspam`: Zeigt die aktuelle Liste der Spam-Filtermuster an.
+- `!status`: Zeigt den aktuellen Status des Bots an.
 
-## Early Access Information
+## Informationen zur frühen Zugriffsphase
 
-As Yuniqx Bot is in Early Access:
+Da sich Yuniqx Bot in der frühen Zugriffsphase befindet:
 
-- Some features may be experimental and subject to change.
-- You may encounter bugs or unexpected behavior.
-- We greatly appreciate your feedback and bug reports.
-- New features and improvements will be added regularly.
+- Können einige Funktionen experimentell sein und sich ändern.
+- Können Sie auf Fehler oder unerwartetes Verhalten stoßen.
+- Schätzen wir Ihr Feedback und Ihre Fehlerberichte sehr.
+- Werden regelmäßig neue Funktionen und Verbesserungen hinzugefügt.
 
-To get the current status of the bot, use the `!status` command in chat.
+Um den aktuellen Status des Bots zu erfahren, verwenden Sie den Befehl `!status` im Chat.
 
-## Contributing
+Ihr Input ist wertvoll für die Gestaltung der Zukunft des Yuniqx Bots!
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/yuniqx-twitch-bot/issues).
+## Mitwirken
 
-## License
+Beiträge, Issues und Feature-Anfragen sind willkommen! Schauen Sie gerne auf der [Issues-Seite](https://github.com/Mou67/Yuniqx-Bot/issues) vorbei.
+
+## Lizenz
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
