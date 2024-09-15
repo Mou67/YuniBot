@@ -12,11 +12,9 @@ Yuniqx ist ein vielseitiger Twitch-Bot, der entwickelt wurde, um die Kanalmodera
 ## Funktionen
 
 - **Slowmode-Verwaltung**: Moderatoren können den Slowmode im Chat aktivieren oder deaktivieren.
-- **URL-Überprüfung**: Scannt automatisch gepostete URLs auf potenzielle Sicherheitsbedrohungen mit der VirusTotal API.
 - **Benutzerdefinierte Befehle**: Enthält Befehle wie !discord, !party und mehr für das Nutzerengagement.
 - **Nachrichtenzählung**: Verfolgt die Gesamtzahl der Chat-Nachrichten.
 - **Automatische Antworten**: Reagiert auf bestimmte Schlüsselwörter im Chat.
-- **Spam-Filterung**: Erkennt und entfernt automatisch häufige Spam-Nachrichten.
 - **Befehlsliste**: Benutzer können verfügbare Befehle mit !cm anzeigen.
 
 - **URL-Überprüfung und Virenscan**:
