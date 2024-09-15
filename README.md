@@ -19,6 +19,23 @@ Yuniqx ist ein vielseitiger Twitch-Bot, der entwickelt wurde, um die Kanalmodera
 - **Spam-Filterung**: Erkennt und entfernt automatisch häufige Spam-Nachrichten.
 - **Befehlsliste**: Benutzer können verfügbare Befehle mit !cm anzeigen.
 
+- **URL-Überprüfung und Virenscan**:
+  - Automatische Erkennung von URLs in Chat-Nachrichten.
+  - Integration mit der VirusTotal API für umfassende Sicherheitsüberprüfungen.
+  - Scannt URLs auf Malware, Phishing-Seiten und andere potenzielle Bedrohungen.
+  - Benachrichtigt Moderatoren über verdächtige Links.
+  - Optionale automatische Entfernung von als gefährlich eingestuften URLs.
+  - Konfigurierbare Schwellenwerte für Bedrohungseinstufungen.
+
+- **Erweiterter Spam-Filter**:
+  - Dynamische Spam-Erkennung basierend auf konfigurierbaren Mustern und Regeln.
+  - Erkennung von wiederholten Nachrichten, übermäßiger Großschreibung und unerwünschten Zeichenfolgen.
+  - Automatische Zeitstrafen für Benutzer, die Spam-Regeln verletzen.
+  - Eskalationssystem für wiederholte Verstöße (Warnung → Timeout → Ban).
+  - Whitelist-Funktion für vertrauenswürdige Benutzer oder bestimmte Nachrichtentypen.
+  - Echtzeit-Aktualisierung der Spam-Regeln durch Moderatoren über Chat-Befehle.
+  - Logging von Spam-Vorfällen für spätere Analyse und Berichterstattung.
+
 ## Befehle
 
 - `!slowmode <Sekunden>`: Stellt den Slowmode ein (0-1800 Sekunden, nur für Moderatoren).
