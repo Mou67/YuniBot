@@ -31,7 +31,7 @@ Yuniqx ist ein vielseitiger Twitch-Bot, der entwickelt wurde, um die Kanalmodera
 - `!listspam`: Zeigt die aktuelle Liste der Spam-Filtermuster an.
 - `!status`: Zeigt den aktuellen Status des Bots an.
 
-## Informationen zur frühen Zugriffsphase
+## ⚠️ Informationen zur frühen Zugriffsphase ⚠️
 
 Da sich Yuniqx Bot in der frühen Zugriffsphase befindet:
 
