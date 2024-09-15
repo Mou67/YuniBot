@@ -46,7 +46,7 @@ Ihr Input ist wertvoll für die Gestaltung der Zukunft des Yuniqx Bots!
 
 ## Mitwirken
 
-Beiträge, Issues und Feature-Anfragen sind willkommen! Schauen Sie gerne auf der [Issues-Seite]([https://github.com/Mou67/Yuniqx-Bot/issues](https://github.com/Mou67/YuniBot/issues)) vorbei.
+Beiträge, Issues und Feature-Anfragen sind willkommen! Schauen Sie gerne auf der [Issues-Seite](https://github.com/Mou67/YuniBot/issues) vorbei.
 
 ## Lizenz
 
