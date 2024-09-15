@@ -18,6 +18,9 @@ Yuniqx is a versatile Twitch bot designed to enhance channel moderation and user
 - `!ms`: Display total message count.
 - `!party`: Trigger a party mode with emotes.
 - `!cm`: List all available commands.
+- `!addspam <pattern>`: Add a spam pattern to the filter (Mod only).
+- `!removespam <pattern>`: Remove a spam pattern from the filter (Mod only).
+- `!listspam`: Display the current list of spam filter patterns.
 
 ## Contributing
 
