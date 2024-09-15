@@ -1,5 +1,11 @@
 # Yuniqx Twitch Bot
 
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+⚠️ **Early Access Notice** ⚠️
+Yuniqx Bot is currently in Early Access. Features may be added, changed, or removed as development progresses. We appreciate your support and feedback during this phase!
+
 Yuniqx is a versatile Twitch bot designed to enhance channel moderation and user engagement. Built with Python and the TwitchIO library, this bot offers a range of features to improve the streaming experience.
 
 ## Features
@@ -9,6 +15,7 @@ Yuniqx is a versatile Twitch bot designed to enhance channel moderation and user
 - **Custom Commands**: Includes commands like !discord, !party, and more for user engagement.
 - **Message Counting**: Tracks the total number of chat messages.
 - **Auto-responses**: Responds to specific keywords in chat.
+- **Spam Filtering**: Automatically detects and removes common spam messages.
 - **Command List**: Users can view available commands with !cm.
 
 ## Commands
@@ -21,6 +28,18 @@ Yuniqx is a versatile Twitch bot designed to enhance channel moderation and user
 - `!addspam <pattern>`: Add a spam pattern to the filter (Mod only).
 - `!removespam <pattern>`: Remove a spam pattern from the filter (Mod only).
 - `!listspam`: Display the current list of spam filter patterns.
+- `!status`: Display the current status of the bot.
+
+## Early Access Information
+
+As Yuniqx Bot is in Early Access:
+
+- Some features may be experimental and subject to change.
+- You may encounter bugs or unexpected behavior.
+- We greatly appreciate your feedback and bug reports.
+- New features and improvements will be added regularly.
+
+To get the current status of the bot, use the `!status` command in chat.
 
 ## Contributing
 
