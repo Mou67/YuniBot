@@ -1,10 +1,8 @@
 # Yuniqx Twitch Bot
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
-⚠️ **Early Access Notice** ⚠️
-Yuniqx Bot is currently in Early Access. Features may be added, changed, or removed as development progresses. We appreciate your support and feedback during this phase!
+> ⚠️ **Early Access Notice** ⚠️
+> Yuniqx Bot is currently in Early Access. Features may be added, changed, or removed as development progresses. We appreciate your support and feedback during this phase!
 
 Yuniqx is a versatile Twitch bot designed to enhance channel moderation and user engagement. Built with Python and the TwitchIO library, this bot offers a range of features to improve the streaming experience.
 
