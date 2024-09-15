@@ -1,7 +1,5 @@
 # Yuniqx Twitch Bot
 
-![Yuniqx Bot Logo](Images/max_schock.png)
-
 
 > [!CAUTION]
 > ⚠️ **Hinweis zur frühen Zugriffsphase** ⚠️
