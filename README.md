@@ -11,10 +11,15 @@ Yuniqx ist ein vielseitiger Twitch-Bot, der entwickelt wurde, um die Kanalmodera
 ## Funktionen
 
 - **Slowmode-Verwaltung**: Moderatoren können den Slowmode im Chat aktivieren oder deaktivieren.
+- **URL-Überprüfung**: Scannt automatisch gepostete URLs auf potenzielle Sicherheitsbedrohungen mit der VirusTotal API.
 - **Benutzerdefinierte Befehle**: Enthält Befehle wie !discord, !party und mehr für das Nutzerengagement.
 - **Nachrichtenzählung**: Verfolgt die Gesamtzahl der Chat-Nachrichten.
 - **Automatische Antworten**: Reagiert auf bestimmte Schlüsselwörter im Chat.
+- **Spam-Filterung**: Erkennt und entfernt automatisch häufige Spam-Nachrichten.
 - **Befehlsliste**: Benutzer können verfügbare Befehle mit !cm anzeigen.
+- **Yunimark-System**: Ein automatisches Währungssystem, das aktive Chatter belohnt.
+- **Glücksspiel**: Benutzer können ihre Yunimarks einsetzen, um die Chance zu haben, mehr zu gewinnen.
+- **Moderationstools**: Beinhaltet Spam-Erkennung und Zeitsperre-Funktionen für Benutzer.
 
 - **URL-Überprüfung und Virenscan**:
   - Automatische Erkennung von URLs in Chat-Nachrichten.
@@ -33,6 +38,18 @@ Yuniqx ist ein vielseitiger Twitch-Bot, der entwickelt wurde, um die Kanalmodera
   - Echtzeit-Aktualisierung der Spam-Regeln durch Moderatoren über Chat-Befehle.
   - Logging von Spam-Vorfällen für spätere Analyse und Berichterstattung.
 
+ ## Yunimark-System
+
+- Alle 60 Sekunden erhalten aktive Benutzer im Chat 100 Yunimarks.
+- Benutzer können ihren Kontostand überprüfen, Glücksspiele machen und an anderen Yunimark-basierten Aktivitäten teilnehmen.
+- Moderatoren können mit dem Befehl `!addyunimark` Yunimarks zum Kontostand von Benutzern hinzufügen.
+
+## Moderationsfunktionen
+
+- Automatische Spam-Erkennung und Zeitsperre für auffällige Benutzer.
+- Möglichkeit, Bots zur Filterliste hinzuzufügen oder daraus zu entfernen.
+- Anpassbare Spam-Muster für verbesserte Chat-Moderation.
+
 ## Befehle
 
 - `!slowmode <Sekunden>`: Stellt den Slowmode ein (0-1800 Sekunden, nur für Moderatoren).
@@ -44,6 +61,12 @@ Yuniqx ist ein vielseitiger Twitch-Bot, der entwickelt wurde, um die Kanalmodera
 - `!removespam <Muster>`: Entfernt ein Spam-Muster aus dem Filter (nur für Moderatoren).
 - `!listspam`: Zeigt die aktuelle Liste der Spam-Filtermuster an.
 - `!status`: Zeigt den aktuellen Status des Bots an.
+- `!yunimark`: Überprüfe deinen aktuellen Yunimark-Kontostand.
+- `!gamble <Betrag>`: Setze deine Yunimarks. Verwende 'all', um alle deine Yunimarks zu setzen.
+- `!cooldown`: Überprüfe die verbleibende Zeit, bevor du wieder setzen kannst.
+- `!addyunimark <Benutzername> <Betrag>`: (Nur für Moderatoren) Füge Yunimarks zum Kontostand eines Benutzers hinzu.
+- `!balance [Benutzername]`: Überprüfe den Yunimark-Kontostand von dir selbst oder einem anderen Benutzer.
+- `!info`: Zeige Informationen über den Bot und seinen aktuellen Status an.
 
 ## ⚠️ Informationen zur frühen Zugriffsphase ⚠️
 
