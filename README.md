@@ -1,5 +1,6 @@
 # Yuniqx Twitch Bot
 
+![Yuniqx Bot Logo](Images/3fed6854-7464-421b-80b2-90512b6147ab-channel_offline_image-1920x1080.jpg)
 
 > [!CAUTION]
 > ⚠️ **Hinweis zur frühen Zugriffsphase** ⚠️
